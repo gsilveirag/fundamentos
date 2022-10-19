@@ -11,3 +11,7 @@ console.log(a,b)
 let soma = a + b;
 
 console.log(soma)
+
+let subtracao = a - b;
+
+console.log(subtracao)
