@@ -6,12 +6,12 @@ console.log(a,b);
 a = 300;
 b = 500;
 
-console.log(a,b)
+console.log(a,b);
 
 let soma = a + b;
 
-console.log(soma)
+console.log(soma);
 
 let subtracao = a - b;
 
-console.log(subtracao)
+console.log(subtracao);
